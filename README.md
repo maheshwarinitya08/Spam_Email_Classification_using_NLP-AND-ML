@@ -27,7 +27,7 @@ A machine learning-based application for classifying emails as **Spam** or **Not
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/spam-email-classification.git
+   git clone https://github.com/maheshwarinitya08/Spam_Email_Classification_using_NLP-AND-ML.git
    cd spam-email-classification
 
 ## Install Dependencies
