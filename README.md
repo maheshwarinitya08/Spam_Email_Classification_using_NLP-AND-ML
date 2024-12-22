@@ -23,3 +23,24 @@ A machine learning-based application for classifying emails as **Spam** or **Not
   - `numpy`  
   - `pickle`  
 
+## Setup Instructions  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/spam-email-classification.git
+   cd spam-email-classification
+
+## Install Dependencies
+- pip install -r requirements.txt
+
+## Run the application
+- streamlit run spamDetector.py
+
+## Project Structure
+-spam-email-classification/  
+├── spamDetector.py          # Main application script  
+├── spam123.pkl              # Trained model  
+├── vec123.pkl               # CountVectorizer model  
+├── requirements.txt         # Python dependencies  
+├── README.md                # Project documentation  
+
